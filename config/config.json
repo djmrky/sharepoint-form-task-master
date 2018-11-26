@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/sharepointCandidates/SharepointCandidatesWebPart.js",
+      "manifest": "./src/webparts/sharepointCandidates/SharepointCandidatesWebPart.manifest.json",
+      "outputPath": "./dist/sharepoint-candidates-web-part.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "SharepointCandidatesWebPartStrings": "webparts/sharepointCandidates/loc/{locale}.js"
+  }
+}
